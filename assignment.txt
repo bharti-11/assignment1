@@ -1,0 +1,25 @@
+       FOR INITIALISATION
+
+git config--global user.name"rukman"
+git config--global user.email"bhartirana9050@gmail.com"
+git init
+git status
+git add
+(a) git add.
+(b) git add  assignment1
+git status.
+git commit-m"yours msg"
+git log.
+git remote add origin
+git push origin master
+
+
+      FOR UPDATION
+
+
+
+git add.
+gut commit-m "yours file has been update".
+git push origin master	  
+
+

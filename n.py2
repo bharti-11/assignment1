@@ -1,0 +1,5 @@
+f=open('test.txt',encoding=""utf8")
+content=f.read()
+print(content)
+f.close()
+  
